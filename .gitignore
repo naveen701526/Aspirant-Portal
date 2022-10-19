@@ -19,6 +19,8 @@ target/
 *.iml
 *.ipr
 
+roughwork.txt
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
